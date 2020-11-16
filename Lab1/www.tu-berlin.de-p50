@@ -1,0 +1,8 @@
+PING www.tu-berlin.de (130.149.7.201) 22(50) bytes of data.
+30 bytes from www.tu-berlin.de (130.149.7.201): icmp_seq=1 ttl=242 time=273 ms
+30 bytes from www.tu-berlin.de (130.149.7.201): icmp_seq=2 ttl=242 time=273 ms
+30 bytes from www.tu-berlin.de (130.149.7.201): icmp_seq=3 ttl=242 time=273 ms
+
+--- www.tu-berlin.de ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 3003ms
+rtt min/avg/max/mdev = 273.263/273.277/273.302/0.603 ms

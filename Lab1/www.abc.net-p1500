@@ -1,0 +1,26 @@
+PING www.abc.net (162.243.117.188) 1427(1455) bytes of data.
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=1 ttl=49 time=205 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=2 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=3 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=4 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=5 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=6 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=7 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=8 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=9 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=10 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=11 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=12 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=13 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=14 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=15 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=16 ttl=49 time=205 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=17 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=18 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=19 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=20 ttl=49 time=204 ms
+1435 bytes from vip.nomoz.com (162.243.117.188): icmp_seq=21 ttl=49 time=204 ms
+
+--- www.abc.net ping statistics ---
+21 packets transmitted, 21 received, 0% packet loss, time 20031ms
+rtt min/avg/max/mdev = 204.683/204.814/205.182/0.431 ms

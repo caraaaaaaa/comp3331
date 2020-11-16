@@ -1,0 +1,6 @@
+PING www.dlsu.deu.ph (45.79.222.138) 472(500) bytes of data.
+480 bytes from apple.parklogic.com (45.79.222.138): icmp_seq=1 ttl=41 time=339 ms
+
+--- www.dlsu.deu.ph ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 339.173/339.173/339.173/0.000 ms

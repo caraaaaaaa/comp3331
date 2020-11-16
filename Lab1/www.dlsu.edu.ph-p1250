@@ -1,0 +1,6 @@
+PING www.dlsu.edu.ph (103.231.241.180) 1222(1250) bytes of data.
+1230 bytes from 103.231.241.180: icmp_seq=1 ttl=114 time=299 ms
+
+--- www.dlsu.edu.ph ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 299.730/299.730/299.730/0.000 ms
